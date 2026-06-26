@@ -6,9 +6,8 @@ An end-to-end **Data Engineering** project built on **Google Cloud Platform (GCP
 
 ## 📌 Architecture
 
-<p align="center">
-  <img src="images/architecture.png" alt="GCP Architecture" width="100%">
-</p>
+![Architecture Diagram](YouTube%20Trending%20Data%20Pipeline.png)
+
 
 ---
 
